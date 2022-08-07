@@ -1,0 +1,5 @@
+name: PacketLimiter
+version: '1.0-SNAPSHOT'
+main: packet.packetlimiter.PacketLimiter
+api-version: 1.19
+authors: [ BeetcodeMC ]

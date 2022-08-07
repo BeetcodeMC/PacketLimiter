@@ -1,0 +1,5 @@
+name: PacketLimiter
+version: '${project.version}'
+main: packet.packetlimiter.PacketLimiter
+api-version: 1.19
+authors: [ BeetcodeMC ]
